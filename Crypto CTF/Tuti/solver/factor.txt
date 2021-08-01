@@ -1,0 +1,14 @@
+p1 factor: 2
+p1 factor: 2
+p1 factor: 3
+p2 factor: 11
+p2 factor: 11
+p2 factor: 19
+p2 factor: 47
+p2 factor: 71
+p4 factor: 3449
+p5 factor: 11953
+p7 factor: 5485619
+p19 factor: 2035395403834744453
+p20 factor: 17258104558019725087
+p46 factor: 1357459302115148222329561139218955500171643099
