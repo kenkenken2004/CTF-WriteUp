@@ -1,0 +1,49 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"5c695044-275d-42a8-9883-e1ce336b9dbb\" name=\"デフォルト変更リスト\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/SECCON-Beginners-2021/Crypto/Imaginary.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/SECCON-Beginners-2021/Crypto/Imaginary.md\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1svo6hXL4xHL7kT1MpM9Ht8rg6x\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"アプリケーションレベル\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"デフォルトタスク\">\r\n      <changelist id=\"5c695044-275d-42a8-9883-e1ce336b9dbb\" name=\"デフォルト変更リスト\" comment=\"\" />\r\n      <created>1621762250555</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1621762250555</updated>\r\n      <workItem from=\"1621762251887\" duration=\"382000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -2,7 +2,8 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="5c695044-275d-42a8-9883-e1ce336b9dbb" name="デフォルト変更リスト" comment="">
+-      <change beforePath="$PROJECT_DIR$/SECCON-Beginners-2021/Crypto/Imaginary.md" beforeDir="false" afterPath="$PROJECT_DIR$/SECCON-Beginners-2021/Crypto/Imaginary.md" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Crypto CTF/Farm/explain.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -35,11 +36,26 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1621762250555</updated>
+-      <workItem from="1621762251887" duration="382000" />
++      <workItem from="1621762251887" duration="421000" />
++      <workItem from="1622443018647" duration="68000" />
++      <workItem from="1622443097557" duration="184000" />
++      <workItem from="1623061189795" duration="35000" />
++      <workItem from="1627779496055" duration="843000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+ </project>
+\ No newline at end of file
