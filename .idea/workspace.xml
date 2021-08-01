@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c695044-275d-42a8-9883-e1ce336b9dbb" name="デフォルト変更リスト" comment="Merge remote-tracking branch 'origin/main' into main">
+      <change afterPath="$PROJECT_DIR$/Crypto CTF/Onlude/explain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CTF-WriteUp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CTF-WriteUp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crypto CTF/KeyBase/explain.md" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto CTF/KeyBase/explain.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,7 +51,10 @@
       <workItem from="1622443097557" duration="184000" />
       <workItem from="1623061189795" duration="35000" />
       <workItem from="1627779496055" duration="843000" />
-      <workItem from="1627780398348" duration="5267000" />
+      <workItem from="1627780398348" duration="7039000" />
+      <workItem from="1627787526048" duration="370000" />
+      <workItem from="1627788228704" duration="34000" />
+      <workItem from="1627788271977" duration="1599000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main' into main">
       <created>1627784026009</created>
@@ -72,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627784193073</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1627785862753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627785862753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
