@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c695044-275d-42a8-9883-e1ce336b9dbb" name="デフォルト変更リスト" comment="Merge remote-tracking branch 'origin/main' into main">
-      <change afterPath="$PROJECT_DIR$/Crypto CTF/Tuti/explain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto CTF/Tuti/flag.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crypto CTF/Rima/explain.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crypto CTF/Tuti/solver/solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto CTF/Tuti/solver/solver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,9 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="ファセット" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.4390244" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +62,7 @@
       <workItem from="1627780398348" duration="7039000" />
       <workItem from="1627787526048" duration="370000" />
       <workItem from="1627788228704" duration="34000" />
-      <workItem from="1627788271977" duration="2903000" />
+      <workItem from="1627788271977" duration="5673000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main' into main">
       <created>1627784026009</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627790227830</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1627791356429</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627791356429</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,5 +134,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/main' into main" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
