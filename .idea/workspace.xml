@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c695044-275d-42a8-9883-e1ce336b9dbb" name="デフォルト変更リスト" comment="">
-      <change afterPath="$PROJECT_DIR$/Crypto CTF/Farm/explain.md" afterDir="false" />
+    <list default="true" id="5c695044-275d-42a8-9883-e1ce336b9dbb" name="デフォルト変更リスト" comment="Merge remote-tracking branch 'origin/main' into main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crypto CTF/KeyBase/explain.md" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto CTF/KeyBase/explain.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1svo6hXL4xHL7kT1MpM9Ht8rg6x" />
   <component name="ProjectViewState">
@@ -48,8 +49,30 @@
       <workItem from="1622443097557" duration="184000" />
       <workItem from="1623061189795" duration="35000" />
       <workItem from="1627779496055" duration="843000" />
-      <workItem from="1627780398348" duration="3503000" />
+      <workItem from="1627780398348" duration="5267000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1627784026009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627784026009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1627784080243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627784080243</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1627784193073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627784193073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +89,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main' into main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main" />
   </component>
 </project>
